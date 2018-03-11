@@ -5,7 +5,6 @@ def recurPower(base, exp):
  
     returns: int or float, base^exp
     '''
-    # Your code here
     if(exp == 1):
         return base
     elif(exp == 0):
